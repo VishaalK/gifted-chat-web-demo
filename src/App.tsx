@@ -11,7 +11,7 @@ const App: React.FC = () => {
         'This is a test of Gifted Chat for the WEB 🎉 \n https://github.com/FaridSafi/react-native-gifted-chat ',
       user: {
         _id: 2,
-        name: 'you',
+        name: 'me',
         avatar: '/me.jpg',
       },
       createdAt: new Date(),
@@ -21,7 +21,7 @@ const App: React.FC = () => {
       text: '',
       video: 'https://media.giphy.com/media/3o6ZthZjk09Xx4ktZ6/giphy.mp4',
       user: {
-        _id: 2,
+        _id: 1,
         name: 'you',
         avatar: '/me.jpg',
       },
